@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "allancslima.view.performance.techtalk"
+        applicationId "allancslima.view.performance.talk"
         minSdkVersion 16
         targetSdkVersion 28
         versionCode 1
