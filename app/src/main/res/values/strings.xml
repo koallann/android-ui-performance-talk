@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tech Talk</string>
+    <string name="type">Type: %1$s</string>
+    <string name="attack">Attack: %1$d</string>
+    <string name="defense">Defense: %1$d</string>
+</resources>
