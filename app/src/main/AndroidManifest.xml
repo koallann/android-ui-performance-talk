@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          xmlns:tools="http://schemas.android.com/tools"
-          package="allancslima.view.performance.talk">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="allancslima.view.performance.talk">
 
     <application
         android:allowBackup="true"
